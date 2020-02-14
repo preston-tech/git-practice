@@ -1,3 +1,4 @@
 const fullName = (first, last) => {
-    let(fullName = `${preston} ${phillips}`)
+    let (fullName = `${first} ${last}`)
 }
+fullName('Preston', 'Phillips')
